@@ -1,0 +1,16 @@
+
+.container{
+    background-color: gray;
+    border: 5px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 80px;
+    ;
+    text-align: center;
+    background-color: rgba(0,0,0,0.6);
+    color: rgb(0, 179, 255);
+}
+
+body{
+background-image: url("parul\ 2.jpeg");
+}
